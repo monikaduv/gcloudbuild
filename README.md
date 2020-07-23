@@ -1,1 +1,1 @@
-This repository demonstrates integration of Google Cloud Build with Github repository
+This repository demonstrates integration of Google Cloud Build service with Github repository. 
